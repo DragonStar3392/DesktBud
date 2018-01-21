@@ -1,2 +1,2 @@
 # DesktBud
-A desktop buddy
+A desktop buddy done with Qt
