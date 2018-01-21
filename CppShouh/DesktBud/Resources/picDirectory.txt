@@ -1,0 +1,4 @@
+C:/Users/My Document/Desktop/CppShouh/DesktBud/Resources/Neko/kudasaineko.png
+C:/Users/My Document/Desktop/CppShouh/DesktBud/Resources/Neko/nanineko.png
+C:/Users/My Document/Desktop/CppShouh/DesktBud/Resources/Neko/tobineko.png
+C:/Users/My Document/Desktop/CppShouh/DesktBud/Resources/Neko/bikkurineko.png

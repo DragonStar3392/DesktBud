@@ -1,0 +1,4 @@
+Resources/Anime/bepBite.png
+Resources/Anime/bepOwO.png
+Resources/Anime/bepPat.png
+Resources/Anime/bepPoke.png
